@@ -25,7 +25,7 @@ public class EULER2
     }
     if(map.containsKey(n))
     {
-      return map.get(n).intValue();//dynamic programming is nowhere near as cool as the name
+      return map.get(n).intValue();
     }
     else
     {
